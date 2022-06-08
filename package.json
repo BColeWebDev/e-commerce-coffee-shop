@@ -1,0 +1,19 @@
+{
+  "name": "e-commerce-coffee-shop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "cd client && npm run dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BColeWebDev/e-commerce-coffee-shop.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BColeWebDev/e-commerce-coffee-shop/issues"
+  },
+  "homepage": "https://github.com/BColeWebDev/e-commerce-coffee-shop#readme"
+}
